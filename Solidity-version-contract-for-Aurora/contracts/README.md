@@ -3,7 +3,16 @@
 ## Dependencies
 
 - Linux or Mac
-- node ≥ 16
+- node ≥ 14
+
+## Network & Contract
+Network Name:Aurora Testnet
+RPC URL:https://testnet.aurora.dev
+
+### contract address
+
+#### Creator
+0xCdd27850AC3f1D999166E11408DEA1137b28C5b7
 
 ## Installing
 
