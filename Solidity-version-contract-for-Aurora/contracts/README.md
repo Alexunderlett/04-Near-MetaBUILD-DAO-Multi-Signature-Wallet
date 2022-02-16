@@ -1,9 +1,23 @@
 ## Documentation on how to run the project
 
+## Contract introduction
+- Creator: The contract allows users to create their own multi-signature wallet.
+- MultiSign: This is the main logical contract for multi-signature wallet and is mainly used to manage money.
+
+
 ## Dependencies
 
 - Linux or Mac
-- node ≥ 16
+- node ≥ 14
+
+## Network & Contract
+- Network Name: Aurora Testnet
+- RPC URL: https://testnet.aurora.dev
+
+### contract address
+
+#### Creator
+0xCdd27850AC3f1D999166E11408DEA1137b28C5b7
 
 ## Installing
 
